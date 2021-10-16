@@ -8,4 +8,4 @@
 Omarbenhamed/Omarbenhamed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Python3 sherlock--timeout 5 tabban nessrine ben aoun 
+Python3 sherlock --timeout 5 tabban nessrine ben aoun 
